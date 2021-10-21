@@ -138,6 +138,11 @@ button{
     justify-content: center;
     align-items: center;
 }
+
+.section3{
+    width: 120rem;
+    height: 90rem;
+}
 img{
     width: 100%;
     height: 100%;
@@ -165,3 +170,4 @@ p{
 .resultado{
     margin-top: 2rem;
 }
+
